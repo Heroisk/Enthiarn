@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "enthiarn:blocks/tellcanium_ore"
+	}
+}
